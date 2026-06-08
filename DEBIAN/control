@@ -1,0 +1,7 @@
+Package: thinkfc
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: chrv80 <chrv80@gmail.com>
+Description: Custom ThinkPad fan controller
