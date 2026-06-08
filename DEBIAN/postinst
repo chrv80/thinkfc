@@ -1,0 +1,7 @@
+#!/bin/sh
+
+systemctl daemon-reload
+systemctl enable thinkfc.service
+systemctl restart thinkfc.service
+
+exit 0
