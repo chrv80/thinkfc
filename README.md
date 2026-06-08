@@ -3,7 +3,7 @@ Custom ThinkPad fan control software
 
 -----------------------------------------
 
-thinkfc is provided without any warranty/
+thinkfc is provided without any warranty.
 
 This software directly controls system cooling and should only be used by users who understand the risks involved.
 
