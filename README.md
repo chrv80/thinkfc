@@ -17,3 +17,5 @@ Requires thinkpad_acpi kernel module to be loaded.
 - Install the deb package from releases or compile from source.
 - The default settings have quite aggressive fan speed/temperature ratio.
 - You can create a config file: /etc/thinkfc.conf, consisted of 8 integer temperature values, from lower to higher, one for each level of fan speed, from 1 to full-speed.
+
+Installing the deb package, creates and enables a service for thinkfc.
