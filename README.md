@@ -1,5 +1,5 @@
 # thinkfc
-Custom ThinkPad fan control software
+Custom ThinkPad fan control software written in C.
 
 -----------------------------------------
 
