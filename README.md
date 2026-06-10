@@ -1,6 +1,5 @@
 # thinkfc
 Custom ThinkPad fan control software written in C.
-
 -----------------------------------------
 
 thinkfc is provided without any warranty.
